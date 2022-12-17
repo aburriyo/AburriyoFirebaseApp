@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "91027328442",
+    "project_id": "app-con-firebase-9823c",
+    "storage_bucket": "app-con-firebase-9823c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91027328442:android:b665ace1785eef38c76183",
+        "android_client_info": {
+          "package_name": "com.bastian.aburriyofirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTDfZnF1eR_iMxeo35XJbhOGtNdzrE9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91027328442:android:41b69c03be974411c76183",
+        "android_client_info": {
+          "package_name": "com.bastian.aplicacinconfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTDfZnF1eR_iMxeo35XJbhOGtNdzrE9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91027328442:android:90a6a1f29919eb78c76183",
+        "android_client_info": {
+          "package_name": "com.bastian.opencvandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTDfZnF1eR_iMxeo35XJbhOGtNdzrE9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91027328442-kh58o2ufuiipqqnscpubmkq1qvjcp8be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -41,12 +41,14 @@
             android:id="@+id/IniciarSesiónPantalla"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="irIniciar"
             android:text="@string/btn_login_pantalla" />
 
         <Button
             android:id="@+id/RegistrarPantalla"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="irRegistrar"
             android:text="@string/btn_register_pantalla" />
 
         <Button

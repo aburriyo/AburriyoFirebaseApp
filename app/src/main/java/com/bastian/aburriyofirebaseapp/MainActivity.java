@@ -2,7 +2,9 @@ package com.bastian.aburriyofirebaseapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,13 +14,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void irIniciar() {
-    Intent i = new Intent(this, LoginActivity.class);
+    public void irIniciar(View view) {
+    Intent i = new Intent(this, IniciarSesionActivity.class);
     startActivity(i);
     }
 
-    public void irRegistrar() {
-    Intent i = new Intent(this, LoginActivity.class);
+    public void irRegistrar(View view) {
+    Intent i = new Intent(this, RegistraActivity.class);
     startActivity(i);
     }
 
