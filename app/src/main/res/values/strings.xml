@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AburriyoFirebase App</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registro</string>
+
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="repeat_password">Repetir Contraseña</string>
+
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_login">Iniciar Sesión</string>
+
+    <string name="btn_login_pantalla">Iniciar Sesión</string>
+    <string name="btn_register_pantalla">Registrarse</string>
+    <string name="btn_OpenCV">OpenCV Pantalla</string>
+</resources>
