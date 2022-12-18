@@ -21,4 +21,11 @@
     <string name="btn_OpenCV">OpenCV Pantalla</string>
 
     <string name="aburriyo_logo">AburriyoFirebase</string>
+
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="correo">Correo</string>
+
+    <string name="cv2Redirect">Abrir OpenCV</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+
 </resources>
